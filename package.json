@@ -1,0 +1,27 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "@total-typescript/exercise-cli": "^0.4.0",
+    "@total-typescript/helpers": "~0.0.1",
+    "@types/jest": "^29.5.13",
+    "cross-fetch": "~3.1.5",
+    "nodemon": "~3.0.1",
+    "npm-run-all": "~4.1.5",
+    "prettier": "~2.8.7",
+    "typescript": "~5.2.2",
+    "vite-tsconfig-paths": "~4.0.7",
+    "vitest": "0.34.4"
+  }
+}
